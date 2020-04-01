@@ -92,7 +92,7 @@ paginate: 15
 paginate_path: /page:num/
 
 # remote_theme: jekyll/minima
-remote_theme: neizod/polar
+remote_theme: youssefraafatnasry/PortfolYOU
 
 titles_from_headings:
   enabled:     true
