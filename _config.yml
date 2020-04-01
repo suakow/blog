@@ -91,8 +91,8 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-# remote_theme: jekyll/minima
-remote_theme: youssefraafatnasry/PortfolYOU
+remote_theme: jekyll/minima
+
 
 titles_from_headings:
   enabled:     true
